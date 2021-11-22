@@ -42,7 +42,7 @@ update at python.org.
 WINDOWS:
 Go to your Windows logo and type in "cmd", then write the following commands:
 
->> cd Downloads
+/>/> cd Downloads
 >> cd Hangman Game
 >> python hangman.py
 
