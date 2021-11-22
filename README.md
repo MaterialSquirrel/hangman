@@ -21,7 +21,7 @@ There are two options to play:
 
 <h2>PLAY .EXE ON WINDOWS</h2>
 
-To play the game on a Windows machine, you go to 'dist' and run the .exe
+To play the game on a Windows machine, go to 'dist' and run the .exe
 file. This was built using pyinstaller.
 
 <h2>PLAY .PY FROM COMMAND PROMPT</h2>
@@ -50,3 +50,24 @@ Go to Applications > Utilities > Terminal and follow the instructions above.
 Have fun!!
 
 (I coded everything, except the dictionary and ASCII art are from Github.)
+
+<h2>A note about the /misc folder:</h2>
+
+Two files in this section were used to change .txt files into .py files.
+Originally I had called the .txt files from the program, but then when I
+compiled a single executable using pyinstaller, the .exe program would not
+function if the .txt files were missing. Having only .py files produces
+a much cleaner, single executable.
+
+Using 'dictionary_read.py', I converted a 'dictionary.txt' to
+'dictionary.json'. I did it this way in order to automate the creation of
+a properly syntaxed list. I then pasted that list into a file
+called 'dictionary.py'.
+
+Using 'build_hangmans.py', I converted 7 different .txt files to
+7 different .json outputs, each containing a string. I did it this
+way in order to properly capture all the characters and whitespace.
+I then pasted each one together into a dictionary in 'man_art.py'.
+
+I could have left these both in the main hangman.py file, but I left them
+separate in an attempt to stay organized.
