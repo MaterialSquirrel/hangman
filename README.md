@@ -51,11 +51,9 @@ Go to your Windows logo and type in "cmd", then write the following commands:
 
 This also may work:
 
-&gt;&gt; cd Downloads
-
-&gt;&gt; cd Hangman Game
-
-&gt;&gt; hangman.py
+&gt;&gt; cd Downloads<br />
+&gt;&gt; cd Hangman Game<br />
+&gt;&gt; hangman.py<br />
 
 MAC:
 Go to Applications > Utilities > Terminal and follow the instructions above.
