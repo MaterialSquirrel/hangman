@@ -19,19 +19,15 @@ before game ends.
 
 There are two options to play:
 
-======================================================================
-
-PLAY .EXE ON WINDOWS
-
+======================================================================<br />
+PLAY .EXE ON WINDOWS<br />
 ======================================================================
 
 To play the game on a Windows machine, you go to 'dist' and run the .exe
 file. This was built using pyinstaller.
 
-======================================================================
-
-PLAY .PY FROM COMMAND PROMPT
-
+======================================================================<br />
+PLAY .PY FROM COMMAND PROMPT<br />
 ======================================================================
 
 You must have Python installed. To check if it is installed on your
@@ -42,12 +38,9 @@ update at python.org.
 WINDOWS:
 Go to your Windows logo and type in "cmd", then write the following commands:
 
-&gt;&gt; cd Downloads
-
-&gt;&gt; cd Hangman Game
-
-&gt;&gt; python hangman.py
-
+&gt;&gt; cd Downloads<br />
+&gt;&gt; cd Hangman Game<br />
+&gt;&gt; python hangman.py<br />
 
 This also may work:
 
