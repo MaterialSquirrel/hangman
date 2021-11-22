@@ -20,13 +20,17 @@ before game ends.
 There are two options to play:
 
 ======================================================================
+
 PLAY .EXE ON WINDOWS
+
 ======================================================================
 To play the game on a Windows machine, you go to 'dist' and run the .exe
 file. This was built using pyinstaller.
 
 ======================================================================
+
 PLAY .PY FROM COMMAND PROMPT
+
 ======================================================================
 
 You must have Python installed. To check if it is installed on your
