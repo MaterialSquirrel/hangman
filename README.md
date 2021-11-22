@@ -42,14 +42,14 @@ update at python.org.
 WINDOWS:
 Go to your Windows logo and type in "cmd", then write the following commands:
 
-&lt;&lt; cd Downloads
->> cd Hangman Game
->> python hangman.py
+&gt;&gt; cd Downloads
+&gt;&gt; cd Hangman Game
+&gt;&gt; python hangman.py
 
 This also may work:
->> cd Downloads
->> cd Hangman Game
->> hangman.py
+&gt;&gt; cd Downloads
+&gt;&gt; cd Hangman Game
+&gt;&gt; hangman.py
 
 MAC:
 Go to Applications > Utilities > Terminal and follow the instructions above.
