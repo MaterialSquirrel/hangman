@@ -43,12 +43,18 @@ WINDOWS:
 Go to your Windows logo and type in "cmd", then write the following commands:
 
 &gt;&gt; cd Downloads
+
 &gt;&gt; cd Hangman Game
+
 &gt;&gt; python hangman.py
 
+
 This also may work:
+
 &gt;&gt; cd Downloads
+
 &gt;&gt; cd Hangman Game
+
 &gt;&gt; hangman.py
 
 MAC:
