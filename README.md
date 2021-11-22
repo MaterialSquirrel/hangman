@@ -31,7 +31,7 @@ machine, open a command prompt and write "python". If you have it installed,
 you will get a message informing you of which version. If version 2 or older,
 update at python.org.
 
-WINDOWS:
+<h3>WINDOWS:</h3>
 Go to your Windows logo and type in "cmd", then write the following commands:
 
 &gt;&gt; cd Downloads<br />
@@ -44,7 +44,7 @@ This also may work:
 &gt;&gt; cd Hangman Game<br />
 &gt;&gt; hangman.py<br />
 
-MAC:
+<h3>MAC:</h3>
 Go to Applications > Utilities > Terminal and follow the instructions above.
 
 Have fun!!
